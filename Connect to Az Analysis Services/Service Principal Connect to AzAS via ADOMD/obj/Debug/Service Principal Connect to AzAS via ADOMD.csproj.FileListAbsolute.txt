@@ -1,0 +1,59 @@
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\obj\Debug\Service Principal Connect to AzAS via ADOMD.csprojAssemblyReference.cache
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\obj\Debug\Service Principal Connect to AzAS via ADOMD.csproj.CoreCompileInputs.cache
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Service Principal Connect to AzAS via ADOMD.exe.config
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Service Principal Connect to AzAS via ADOMD.exe
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Service Principal Connect to AzAS via ADOMD.pdb
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\zh-CHS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\zh-CHT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\zh-HANS\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\bin\Debug\zh-HANT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\obj\Debug\Service Principal Connect to AzAS via ADOMD.csproj.CopyComplete
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\obj\Debug\Service Principal Connect to AzAS via ADOMD.exe
+C:\GitRepos\Connect to Az Analysis Services\Service Principal Connect to AzAS via ADOMD\obj\Debug\Service Principal Connect to AzAS via ADOMD.pdb
